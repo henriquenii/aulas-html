@@ -1,0 +1,24 @@
+h2{
+			background-color:#5599DD;
+			color:#DDDDDD;
+			padding-left: 45px;
+			padding-top: 35px;
+		}
+		.exp{
+			text-indent: 50px;
+		}
+		#email{
+			text-decoration: underline;
+			font-style: italic;
+		}
+
+		body{
+			font-family: Ubuntu,Helvetica;
+			width: 940px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+
+		#cabecalho{
+			text-align: center;
+		}
